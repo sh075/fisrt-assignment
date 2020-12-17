@@ -1,2 +1,0 @@
-# guid for assignment1
-
