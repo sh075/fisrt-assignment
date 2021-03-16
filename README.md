@@ -5,24 +5,24 @@ a pakage for research track course
 2.Algorithm
 3.Content of Package
 4.How to run the code
-5.## General info
+## General info
 6.The assignment is to control a holonomic robot in 2d space with a simple 2d simulator.
-7.## Algorithm
+## Algorithm
 8.1.Set a random target in the interval [-6.0, 6.0]
 9.2.Check the distance between target and robot position
 10.3.IF distance is larger than 0.1 -> update x,y speed value -> Go to step 2.
 11.4.Else -> Go to step 1.
-12.## content of package
-14.##node
+## content of package
+## node
 15.1.First node: (assignment1)
 16.ROS publisher: publishing the robot speed
 17.ROS subscriber: subscribe for robot position
 18.ROS client: receiving a random target
 19.Second node: (project1)
 20.ROS server: Service Server replys to the client with a random target
-21.## Costum service
+## Costum service
 22.Random_Target service: return two random positions between [-6.0, 6.0]
-23.## How to run the code
+## How to run the code
 24.1. After git clone, move repository to /home/
 25.2.Add the line 'source /home/my_ros_ws/devel/setup.bash' in your .bashrc file.
 26.3.Change the directory to the workspace /home/my_ros_ws/
