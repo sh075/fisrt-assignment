@@ -49,4 +49,4 @@ $ rosrun project1 project1
 ```
 Run the First node
 ```
-35.$ rosrun assignment1 assignment1
+$ rosrun assignment1 assignment1
