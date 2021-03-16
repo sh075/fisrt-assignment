@@ -2,9 +2,12 @@
 a pakage for research track course
 ## Table of Contents
 1.General Info
-2.Algorithm
-3.Content of Package
-4.How to run the code
+2.
+3.Algorithm
+4.
+5.Content of Package 
+6.
+7.How to run the code
 ## General info
 6.The assignment is to control a holonomic robot in 2d space with a simple 2d simulator.
 ## Algorithm
