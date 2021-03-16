@@ -1,17 +1,17 @@
 # fisrt-assignment
 a pakage for research track course
 ## Table of Contents
-1.General Info 
-2.Algorithm
-3.Content of Package 
-4.How to run the code
+- 1.General Info 
+- 2.Algorithm
+- 3.Content of Package 
+- 4.How to run the code
 ## General info
-!The assignment is to control a holonomic robot in 2d space with a simple 2d simulator.
+The assignment is to control a holonomic robot in 2d space with a simple 2d simulator.
 ## Algorithm
-- **1.Set a random target in the interval [-6.0, 6.0]
-- **2.Check the distance between target and robot position
-- **3.IF distance is larger than 0.1 -> update x,y speed value -> Go to step 2.
-- **4.Else -> Go to step 1.
+-  Set a random target in the interval [-6.0, 6.0]
+-  Check the distance between target and robot position
+-  IF distance is larger than 0.1 -> update x,y speed value -> Go to step 2.
+-  Else -> Go to step 1.
 ## content of package
 ## node
 First node: (assignment1)
