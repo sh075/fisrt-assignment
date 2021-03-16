@@ -1,6 +1,6 @@
 # fisrt-assignment
 a pakage for research track course
-Table of Contents
+## Table of Contents
 General Info
 Algorithm
 Content of Package
